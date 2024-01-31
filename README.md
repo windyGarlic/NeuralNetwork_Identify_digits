@@ -1,5 +1,5 @@
 # NeuralNetwork_Identify_digits
-This is a neural network that is trained on the MNIST hand written didgit data set. This neural network has been trained over 100 epochs and has an accuracy of 99%. You can provide a number and it will show you the drawing the net is trying to predict.<br>
+This is a neural network that is trained on the MNIST hand written didgit data set. This neural network has been trained over 100 epochs and has an accuracy of 99%. You can provide a number and it will show you the drawing the net is trying to predict.<br>   - **requires pytorch and matplotlib**  <br> <br> 
 ![image](https://github.com/windyGarlic/NeuralNetwork_Identify_digits/assets/111098407/4f95b6b1-6e8a-439a-a5c4-4b8c0b1bd1c8)
 
 
